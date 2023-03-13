@@ -1,0 +1,26 @@
+body {
+    background-color: lightslategrey;
+    
+}
+
+h1 {
+    background-color: aquamarine;
+}
+
+img {
+    width: 1000px;
+    height: auto;
+}
+
+h2 {
+    font-weight: 100;
+}
+
+h3 {
+    font-style: italic;
+}
+
+ul {
+    background-color: antiquewhite;
+    color: pink;
+}
